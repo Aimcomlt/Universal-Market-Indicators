@@ -6,7 +6,7 @@ Example: https://poloniex.com/public?command=returnChartData&currencyPair=BTC_ET
 
 Chapter one of the A.I. Analytic solution in javascript.
 Four part videos:
-Part 1 --> https://youtu.be/pK2yPJMcWwA
+Part 1 -->(Sorry got to Re-make video) https:/ /youtu.be/pK2yPJMcWwA
 part 2 --> https://youtu.be/Ecn3QPf5oLQ
 Part 3 --> https://youtu.be/1Rr8J3wCn3g
 Part 4 --> https://youtu.be/T5ZbhnLTCuY
