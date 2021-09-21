@@ -1,4 +1,4 @@
-﻿# Universal-Market-Indicators
+# Universal-Market-Indicators
  I might up date eth_History.json but just to make sure get the present market data with the link below..
  You can get all the data from poloniex:
 
